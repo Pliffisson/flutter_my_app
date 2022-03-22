@@ -30,6 +30,9 @@ class MyApp extends StatelessWidget {
                 color: Colors.orange,
                 child: const Text('Container 3'),
               ),
+              const SizedBox(
+                width: 65.0,
+              ),
               Container(
                 color: Colors.grey,
                 child: const Text('Container 4'),
